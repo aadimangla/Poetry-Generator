@@ -201,7 +201,7 @@ Project Link: [https://github.com/aadimangla/Rasa-Chatbot](https://github.com/aa
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/aadimangla/Poetry-Generator.svg?style=flat-square
 [contributors-url]: https://github.com/aadimangla/Poetry-Generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aadimangla/Poetry-Generatort.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/aadimangla/Poetry-Generator.svg?style=flat-square
 [forks-url]: https://github.com/aadimangla/Poetry-Generator/network/members
 [stars-shield]: https://img.shields.io/github/stars/aadimangla/Poetry-Generator.svg?style=flat-square
 [stars-url]: https://github.com/aadimangla/Poetry-Generator/stargazers
