@@ -54,27 +54,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](images/product.png)
 
-Customer service bot is a bot that uses artificial intelligence (AI) and machine learning to answer basic customer questions via a business messenger. It can recognize and answer multiple forms of the same question and can be trained to give instant responses using your preferred voice or text.
+Automatically generate imaginative poetry using your own ideas. It generates poetry with resemblance to Shakespeare's poetry by only taking a line or words as an input from the user. It has proven to give quite good poems.
 
 Here's why:
-* AI chatbots use your existing information and resources, like FAQs or knowledge base articles, to help answer and resolve your customers’ questions. 
-* They can recognize and answer multiple forms of the same question and can be trained to give instant responses using your preferred voice and tone.
-* Chatbots offers instant resolutions
-*Your business can offer 24/7 conversational support
-*Chatbots continuously learn
-* You can tailor answers to different types of customers 
-* Your team has more context on each customer
-* A consistent user experience is created
+* To implement deep learning models 
+* To check how creative AI could be
+* To have fun with AI
 
-Chatbots and AI received a major facelift in recent years. The once futuristic-yet-a-pain-in-the-butt digital assistants are being fueled with more data to better serve customers and drive sales.
-
-Is it worth the time and money investment? It depends on your industry and company needs. But today’s sophisticated bot infrastructures have a lot to offer that most businesses can benefit from.
+NLP is a branch of data science that consists of systematic processes for analyzing, understanding, and deriving information from the text data in a smart and efficient manner. By utilizing NLP and its components, one can organize the massive chunks of text data, perform numerous automated tasks and solve a wide range of problems such as – automatic summarization, machine translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation etc.
 
 ### Built With
 This chatbot was build using following frameworks, libraries and softwares.
-* [RASA](https://rasa.com/)
-* [Spacy](https://spacy.io/)
-* [NLTK](https://www.nltk.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
 
 
 
@@ -88,67 +80,14 @@ To run this project you need to follow the following steps.
 These are the prerequisites you need to build this bot as well as run it.
 
 ```sh
-$ pip3 install  rasa==1.10.8
-$ pip3 install rasa[spacy]
-$ python -m spacy download en_core_web_md
-$ python -m spacy link en_core_web_md en
-$ pip3 install  pandas==1.1.0
-$ pip3 install  nltk==3.5
-$ pip3 install fuzzywuzzy==0.18.0
+cmd:\ pip install tensorflow
+cmd:\ pip install keras
 ```
 #### Extra SETUP
 - Create conda environment and create project in this environment
 - After installing requirements in above Modules LIST
-- To add custom component to rasa
-    -   Add current working directory of this project in your python environment variable      -   eg: PATH = D:\Projects\...\Restaurant-Bot-Automation
-- To set the console channel Timeout in seconds
-    -  Go to Anaconda3\envs\{your_rasa_env}\Lib\site-packages\rasa\core\channels\console.py
-    -  And set DEFAULT_STREAM_READING_TIMEOUT_IN_SECONDS=200 
+- You need python idle such as Jupyter notebook or spyder
 
-#### How to Train ?
-- ##### To use default Rasa configs
-```sh
-$ rasa train
-```
-- ##### To use spacy config pipeline (Fast to train)
-```sh
-$ rasa train -c spacy_config.yml
-```
-
-#### How to run 
-- ##### To run action server
-```sh
-$ rasa run actions --actions actionserver.actions
-```
-- ##### To run rasa in debug mode to inspect slot filling and entities ..,
-```sh
-$ rasa shell --debug
-```
-- ##### To run rasa in normal shell
-```sh
-$ rasa shell
-```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-IBM estimates that 265 billion customer support tickets and calls are made globally every year, resulting in $1.3 trillion in customer service costs. IBM also referenced a Chatbots Magazine figure purporting that implementing customer service AI solutions, such as chatbots, into service workflows can reduce a business’ spend on customer service by 30 percent.
-Here are the key areas for how customer service chatbots help businesses to deliver better support.
-
-* Deliver instant customer support
-* 24×7 availability
-* Deliver seamless hybrid support along with live chat 
-* Easy scalability
-* Reduce your cost of customer support with bots
-* Reduce support tickets
-* Collect customer feedback & information
-* Automate your social media support
-* Minimize IVR frustrations
-* Better chatbot support = higher customer happiness!!
-
-_For more examples, please refer to the [Article](https://chatbotsmagazine.com/top-5-benefits-with-using-chatbots-for-your-business-159a0cee7d8a)_
 
 
 
@@ -185,17 +124,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Aditya Mangla - [@aadimangla](https://twitter.com/aadimangla) - aadimangla@gmail.com - [adityamangla.com](http://www.adityamangla.com/index.html)
 
 Project Link: [https://github.com/aadimangla/Rasa-Chatbot](https://github.com/aadimangla/Rasa-Chatbot)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [RASA](https://rasa.com/)
-* [RASA Forums](https://forum.rasa.com/)
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
