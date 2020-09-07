@@ -1,7 +1,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]](https://github.com/aadimangla/Rasa-Chatbot/issues)
+[![Issues][issues-shield]](https://github.com/aadimangla/Poetry-Generator/issues)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">Customer Service Chatbot</h3>
+  <h3 align="center">Poetry Generator</h3>
 
   <p align="center">
     <!-- An awesome README template to jumpstart your projects! -->
@@ -199,16 +199,16 @@ Project Link: [https://github.com/aadimangla/Rasa-Chatbot](https://github.com/aa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/aadimangla/Rasa-Chatbot.svg?style=flat-square
-[contributors-url]: https://github.com/aadimangla/Rasa-Chatbot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aadimangla/Rasa-Chatbot.svg?style=flat-square
-[forks-url]: https://github.com/aadimangla/Rasa-Chatbot/network/members
-[stars-shield]: https://img.shields.io/github/stars/aadimangla/Rasa-Chatbot.svg?style=flat-square
-[stars-url]: https://github.com/aadimangla/Rasa-Chatbot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aadimangla/Rasa-Chatbot.svg?style=flat-square
-[issues-url]: https://github.com/aadimangla/Rasa-Chatbot/issues
-[license-shield]: https://img.shields.io/github/license/aadimangla/Rasa-Chatbot.svg?style=flat-square
-[license-url]: https://github.com/aadimangla/Rasa-Chatbot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/aadimangla/Poetry-Generator.svg?style=flat-square
+[contributors-url]: https://github.com/aadimangla/Poetry-Generator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aadimangla/Poetry-Generatort.svg?style=flat-square
+[forks-url]: https://github.com/aadimangla/Poetry-Generator/network/members
+[stars-shield]: https://img.shields.io/github/stars/aadimangla/Poetry-Generator.svg?style=flat-square
+[stars-url]: https://github.com/aadimangla/Poetry-Generator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aadimangla/Poetry-Generator.svg?style=flat-square
+[issues-url]: https://github.com/aadimangla/Poetry-Generator/issues
+[license-shield]: https://img.shields.io/github/license/aadimangla/Poetry-Generator.svg?style=flat-square
+[license-url]: https://github.com/aadimangla/Poetry-Generator/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aadimangla
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/product.png
